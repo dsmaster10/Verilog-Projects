@@ -1,1 +1,0 @@
-An 8-bit ALU handles arithmetic and logic operations on two 8-bit inputs (Operand1 and Operand2) using an opcode to determine the operation. The ALU produces a 16-bit Result and sets flags for carry-out (flagC) and zero result (flagZ).
